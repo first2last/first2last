@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=first2last&label=Profile%20views&color=0e75b6&style=flat" alt="first2last" />
 </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Vishesh_projects](https://linktr.ee/Vishesh_projects)
+- 👨‍💻 All of my projects are available at[(https://vishesh-mishra-3d.vercel.app/)]((https://vishesh-mishra-3d.vercel.app/))
 
 - 💬 Ask me about **Coding and DSA**
 
